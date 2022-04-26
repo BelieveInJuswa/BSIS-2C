@@ -1,4 +1,4 @@
 Hello Owner!
 Hi Boss Collaborator!
-A sample line was added by me the Lodi Owner.
-printf"("The area of triangle is: %.2f" , x);
+printf("The area of circle is: %.2f", x);
+
